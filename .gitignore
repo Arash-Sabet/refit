@@ -63,10 +63,6 @@ _ReSharper*
 # Click-Once directory
 publish
 
-# Visual Studio Code
-
-.vscode/
-
 # Others
 [Bb]in
 [Oo]bj
